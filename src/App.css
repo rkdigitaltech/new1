@@ -1,0 +1,163 @@
+#root {
+  /* max-width: 800px; */
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: left;
+  background-color: #ffffff;
+  width: 100%;
+  font-family: "Barlow Semi Condensed";
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/****** question style */
+
+/* Style for each question */
+/* Container for the entire questions section */
+.questions-container {
+  /* max-width: 1028px; */
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  /* border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+.heading {
+  font-size: 3rem;
+  font-weight: 200;
+  margin-bottom: 1rem;
+  color: #091747;
+}
+
+.subheading {
+  font-size: 2rem;
+  font-weight: 200;
+  margin-bottom: 1rem;
+  color: #091747;
+}
+
+.header_container {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  /* border-radius: 4px; */
+  transition: background-color 200ms;
+}
+
+.statement {
+  font-size: 18px;
+  font-weight: 200;
+  margin-bottom: 1.5rem;
+  color: #091747;
+}
+.question {
+  margin-bottom: 0rem;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 0px solid #e0e0e0;
+  border-radius: 4px;
+  transition: background-color 200ms;
+}
+
+.question:hover {
+  background-color: #f1f1f1;
+}
+
+/* Style for the question text */
+.question-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: #091747;
+}
+
+.intro-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: #2d2e2f;
+}
+
+/* Style for the answer options */
+.answer-options {
+  list-style-type: none;
+  padding: 0;
+}
+
+.answer-option {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  cursor: pointer;
+  color: #091747;
+  font-size: 1.2rem;
+}
+
+.answer-option input[type="radio"] {
+  margin-right: 0.5rem;
+}
+
+.answer-option label {
+  font-size: 1rem;
+}
+
+/* Style for the submit button */
+.submit-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 200ms;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.chart-container {
+  width: 400px; /* Set the desired width */
+  height: 400px; /* Set the desired height */
+  margin: 0 auto; /* Center the chart horizontally */
+}
+.flex-container {
+  display: flex;
+  justify-content: flex-start; /* Optional: Adjusts spacing between items */
+  align-items: flex-start; /* Optional: Aligns items at the start of the container */
+}
+
+.flex-item {
+  flex: 1; /* Optional: Allows items to grow and fill the container */
+  /* margin: 0 10px; Optional: Adds spacing between items */
+}
+
+/* *** */

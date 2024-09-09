@@ -1,0 +1,1737 @@
+.quiz-page-web {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.quiz-page-web .div {
+  background-color: #ffffff;
+  height: 3489px;
+  position: relative;
+  width: 1440px;
+}
+
+.quiz-page-web .overlap-group {
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.quiz-page-web .group {
+  background-color: #009cde;
+  height: 107px;
+  left: 127px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.quiz-page-web .finculcate-LETTERS {
+  height: 12px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 95px;
+}
+
+.quiz-page-web .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 1440px;
+}
+
+.quiz-page-web .text-wrapper {
+  color: #000000;
+  font-family: "Inter-ExtraLight", Helvetica;
+  font-size: 50px;
+  font-weight: 200;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+}
+
+.quiz-page-web .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 481px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 617px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 754px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 896px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-6 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1038px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-7 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1180px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-8 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1322px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-9 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1464px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1606px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-11 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1748px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-12 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1890px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-13 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2032px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-14 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2175px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-15 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2317px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-16 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2459px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-17 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2601px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-18 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2743px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-19 {
+  color: #000000;
+  font-family: "Inter-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2885px;
+  white-space: nowrap;
+}
+
+.quiz-page-web .text-wrapper-20 {
+  color: #000000;
+  font-family: "Inter-ExtraLight", Helvetica;
+  font-size: 28px;
+  font-weight: 200;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 285px;
+}
+
+.quiz-page-web .p {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 383px;
+}
+
+.quiz-page-web .text-wrapper-21 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 476px;
+}
+
+.quiz-page-web .text-wrapper-22 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 612px;
+}
+
+.quiz-page-web .text-wrapper-23 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 749px;
+}
+
+.quiz-page-web .text-wrapper-24 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 891px;
+}
+
+.quiz-page-web .text-wrapper-25 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1033px;
+}
+
+.quiz-page-web .text-wrapper-26 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1175px;
+}
+
+.quiz-page-web .text-wrapper-27 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1317px;
+}
+
+.quiz-page-web .text-wrapper-28 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1459px;
+}
+
+.quiz-page-web .text-wrapper-29 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1601px;
+}
+
+.quiz-page-web .text-wrapper-30 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1743px;
+}
+
+.quiz-page-web .text-wrapper-31 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1885px;
+}
+
+.quiz-page-web .text-wrapper-32 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2027px;
+}
+
+.quiz-page-web .text-wrapper-33 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2170px;
+}
+
+.quiz-page-web .i-ve-reviewed-my {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2312px;
+}
+
+.quiz-page-web .text-wrapper-34 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2454px;
+}
+
+.quiz-page-web .text-wrapper-35 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2596px;
+}
+
+.quiz-page-web .text-wrapper-36 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2738px;
+}
+
+.quiz-page-web .text-wrapper-37 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2880px;
+}
+
+.quiz-page-web .text-wrapper-38 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 525px;
+}
+
+.quiz-page-web .text-wrapper-39 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 661px;
+}
+
+.quiz-page-web .text-wrapper-40 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 798px;
+}
+
+.quiz-page-web .text-wrapper-41 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 940px;
+}
+
+.quiz-page-web .text-wrapper-42 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1082px;
+}
+
+.quiz-page-web .text-wrapper-43 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1224px;
+}
+
+.quiz-page-web .text-wrapper-44 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1366px;
+}
+
+.quiz-page-web .text-wrapper-45 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1508px;
+}
+
+.quiz-page-web .text-wrapper-46 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1650px;
+}
+
+.quiz-page-web .text-wrapper-47 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1792px;
+}
+
+.quiz-page-web .text-wrapper-48 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1934px;
+}
+
+.quiz-page-web .text-wrapper-49 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2076px;
+}
+
+.quiz-page-web .text-wrapper-50 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2219px;
+}
+
+.quiz-page-web .text-wrapper-51 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2361px;
+}
+
+.quiz-page-web .text-wrapper-52 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2503px;
+}
+
+.quiz-page-web .text-wrapper-53 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2645px;
+}
+
+.quiz-page-web .text-wrapper-54 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2787px;
+}
+
+.quiz-page-web .text-wrapper-55 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 234px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2929px;
+}
+
+.quiz-page-web .text-wrapper-56 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 534px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2929px;
+}
+
+.quiz-page-web .text-wrapper-57 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 525px;
+}
+
+.quiz-page-web .text-wrapper-58 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 661px;
+}
+
+.quiz-page-web .text-wrapper-59 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 798px;
+}
+
+.quiz-page-web .text-wrapper-60 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 940px;
+}
+
+.quiz-page-web .text-wrapper-61 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1082px;
+}
+
+.quiz-page-web .text-wrapper-62 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1224px;
+}
+
+.quiz-page-web .text-wrapper-63 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1366px;
+}
+
+.quiz-page-web .text-wrapper-64 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1508px;
+}
+
+.quiz-page-web .text-wrapper-65 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1650px;
+}
+
+.quiz-page-web .text-wrapper-66 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1792px;
+}
+
+.quiz-page-web .text-wrapper-67 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1934px;
+}
+
+.quiz-page-web .text-wrapper-68 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2076px;
+}
+
+.quiz-page-web .text-wrapper-69 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2219px;
+}
+
+.quiz-page-web .text-wrapper-70 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2361px;
+}
+
+.quiz-page-web .text-wrapper-71 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2503px;
+}
+
+.quiz-page-web .text-wrapper-72 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2645px;
+}
+
+.quiz-page-web .text-wrapper-73 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2787px;
+}
+
+.quiz-page-web .text-wrapper-74 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2929px;
+}
+
+.quiz-page-web .text-wrapper-75 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 634px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2929px;
+}
+
+.quiz-page-web .text-wrapper-76 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 434px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2929px;
+}
+
+.quiz-page-web .text-wrapper-77 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 525px;
+}
+
+.quiz-page-web .text-wrapper-78 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 661px;
+}
+
+.quiz-page-web .text-wrapper-79 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 798px;
+}
+
+.quiz-page-web .text-wrapper-80 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 940px;
+}
+
+.quiz-page-web .text-wrapper-81 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1082px;
+}
+
+.quiz-page-web .text-wrapper-82 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1224px;
+}
+
+.quiz-page-web .text-wrapper-83 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1366px;
+}
+
+.quiz-page-web .text-wrapper-84 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1508px;
+}
+
+.quiz-page-web .text-wrapper-85 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1650px;
+}
+
+.quiz-page-web .text-wrapper-86 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1792px;
+}
+
+.quiz-page-web .text-wrapper-87 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 525px;
+}
+
+.quiz-page-web .text-wrapper-88 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 661px;
+}
+
+.quiz-page-web .text-wrapper-89 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 798px;
+}
+
+.quiz-page-web .text-wrapper-90 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 940px;
+}
+
+.quiz-page-web .text-wrapper-91 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1082px;
+}
+
+.quiz-page-web .text-wrapper-92 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1224px;
+}
+
+.quiz-page-web .text-wrapper-93 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1366px;
+}
+
+.quiz-page-web .text-wrapper-94 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1508px;
+}
+
+.quiz-page-web .text-wrapper-95 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1650px;
+}
+
+.quiz-page-web .text-wrapper-96 {
+  color: #838383;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 698px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1792px;
+}
+
+.quiz-page-web .radio-button {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 525px;
+  width: 24px;
+}
+
+.quiz-page-web .img {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 662px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-2 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 798px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-3 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 941px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-4 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1083px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-5 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1225px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-6 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1367px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-7 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1509px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-8 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1651px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-9 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1793px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-10 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 1935px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-11 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2077px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-12 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2220px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-13 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2362px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-14 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2504px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-15 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2646px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-16 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2788px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-17 {
+  height: 24px;
+  left: 202px;
+  position: absolute;
+  top: 2930px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-18 {
+  height: 24px;
+  left: 502px;
+  position: absolute;
+  top: 2930px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-19 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 525px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-20 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 662px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-21 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 798px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-22 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 941px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-23 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1083px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-24 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1225px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-25 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1367px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-26 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1509px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-27 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1651px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-28 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1793px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-29 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 1935px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-30 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2077px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-31 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2220px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-32 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2362px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-33 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2504px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-34 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2646px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-35 {
+  height: 24px;
+  left: 344px;
+  position: absolute;
+  top: 2788px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-36 {
+  height: 24px;
+  left: 302px;
+  position: absolute;
+  top: 2930px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-37 {
+  height: 24px;
+  left: 602px;
+  position: absolute;
+  top: 2930px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-38 {
+  height: 24px;
+  left: 402px;
+  position: absolute;
+  top: 2930px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-39 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 525px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-40 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 662px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-41 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 798px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-42 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 941px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-43 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1083px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-44 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1225px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-45 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1367px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-46 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1509px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-47 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1651px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-48 {
+  height: 24px;
+  left: 488px;
+  position: absolute;
+  top: 1793px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-49 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 525px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-50 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 662px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-51 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 798px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-52 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 941px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-53 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1083px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-54 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1225px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-55 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1367px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-56 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1509px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-57 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1651px;
+  width: 24px;
+}
+
+.quiz-page-web .radio-button-58 {
+  height: 24px;
+  left: 666px;
+  position: absolute;
+  top: 1793px;
+  width: 24px;
+}
+
+.quiz-page-web .overlap {
+  background-color: #009cde;
+  border-radius: 15px;
+  height: 65px;
+  left: 207px;
+  position: absolute;
+  top: 3004px;
+  width: 344px;
+}
+
+.quiz-page-web .text-wrapper-97 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
